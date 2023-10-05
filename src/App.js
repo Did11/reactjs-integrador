@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import DrawClass from './components/DrawClass';
+import DrawClass from './components/DrawClass/DrawClass';
 
 const CLASS_UML = {
     name: 'Person',
