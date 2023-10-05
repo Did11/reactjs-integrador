@@ -1,0 +1,35 @@
+.class-diagram {
+    /* width y height se definen dinámicamente en el componente */
+  }
+  
+  .class-main-rect {
+    fill: white;
+    stroke-width: 2px;
+  }
+
+  .class-title {
+    x: 19;
+    y: 25;
+    font-size: 16px;
+  }
+  
+  .class-body-rect {
+    y: 40;
+    stroke-width: 2px;
+  }
+  
+  .class-attribute {
+    x: 20;
+  }
+  
+  .class-divider {
+    x1: 0;
+    x2: 220px;
+    stroke: black;
+    stroke-width: 2px;
+  }
+  
+  .class-method {
+    x: 20;
+  }
+  
